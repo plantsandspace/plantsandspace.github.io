@@ -1,4 +1,4 @@
 # plantsandspace.github.io
 
 **read me**
-:star2: welcome
+:star2: this is a test of the github emoji system
